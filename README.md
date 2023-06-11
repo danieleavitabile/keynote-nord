@@ -4,7 +4,7 @@
         <img src="https://img.shields.io/badge/-Download%20example-blue"/>
     </a>
     <a href="https://github.com/danieleavitabile/keynote-nord/raw/main/theme/nord-light-keynote-theme.kth">
-        <img src="https://img.shields.io/badge/-Download%20keynote%20template-blue" />
+        <img src="https://img.shields.io/badge/-Download%20keynote%20theme-blue" />
     </a>
 </p>
 

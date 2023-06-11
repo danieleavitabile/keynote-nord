@@ -1,13 +1,11 @@
 # keynote-nord
 
-<p align="center">
     <a href="https://github.com/danieleavitabile/keynote-nord/raw/main/examples/example.key">
         <img src="https://img.shields.io/badge/-Download%20example-blue"/>
     </a>
-    <a href="">
+    <a href="https://github.com/danieleavitabile/keynote-nord/raw/main/theme/nord-light-keynote-theme.kth">
         <img src="https://img.shields.io/badge/-Download%20keynote%20template-blue" />
     </a>
-</p>
 
 A Keynote theme inspired by the [nord theme](https://www.nordtheme.com). The example
 slides contain my workflow to setup fonts, colors and [LaTeXiT](https://www.chachatelier.fr/latexit/) so as to match mathematical and text fonts.

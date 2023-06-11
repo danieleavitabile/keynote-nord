@@ -1,7 +1,7 @@
 # keynote-nord
 
 <p align="center">
-    <a href="https://github.com/danieleavitabile/keynote-nord/blob/main/examples/example.key">
+    <a href="https://github.com/danieleavitabile/keynote-nord/raw/main/examples/example.key">
         <img src="https://img.shields.io/badge/-Download%20example-blue"/>
     </a>
     <a href="">

@@ -1,7 +1,16 @@
 # keynote-nord
 
+<p align="center">
+    <a href="">
+        <img src="https://img.shields.io/badge/-Download%20example-blue"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/-Download%20keynote%20template-blue" />
+    </a>
+</p>
+
 A Keynote theme inspired by the [nord theme](https://www.nordtheme.com). The example
-slides contain my workflow to setup fonts, colour and [LaTeXiT](https://www.chachatelier.fr/latexit/) so as to obtain matching mathematical and text fonts.
+slides contain my workflow to setup fonts, colors and [LaTeXiT](https://www.chachatelier.fr/latexit/) so as to match mathematical and text fonts.
 
 You can use the theme by simply copying the example files, or installing the keynote
 theme.
@@ -14,3 +23,9 @@ themes inspired by nord colours exist, for instance
 
 For the keynote theme, I have been inpsired mostly by the [sthlm beamer
 theme](https://github.com/mholson/sthlmNordBeamerTheme).
+
+<p align="center">
+    <img src="images/cover.jpg" width="800" max-width="90%" alt="Background" />
+    <img src="images/maths.jpg" width="800" max-width="90%" alt="Background" />
+    <img src="images/theorems.jpg" width="800" max-width="90%" alt="Background" />
+</p>

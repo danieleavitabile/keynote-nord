@@ -9,7 +9,7 @@
 </p>
 
 A Keynote theme inspired by the [nord theme](https://www.nordtheme.com). The example
-slides contain my workflow to setup fonts, colors and [LaTeXiT](https://www.chachatelier.fr/latexit/) so as to match mathematical and text fonts. You can use the theme by simply copying the example files, or installing the keynote
+slides contain a workflow to setup fonts, colors and [LaTeXiT](https://www.chachatelier.fr/latexit/) so as to match mathematical and text fonts. You can use the theme by simply copying the example files, or installing the keynote
 theme. The theme has been tested in Keynote version 13.0.
 
 If you like the colour palette, but do not want to use Apple keynote several beamer
